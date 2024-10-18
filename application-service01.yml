@@ -1,8 +1,0 @@
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"  # 모두에게 endpoint 노출한다
-  endpoint:
-    health:
-      show-details: always  # 상세내역을 보여준다
