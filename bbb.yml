@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: Service02
-      # 유레카 서버에 등록되는 서비스 명
-
-server:
-  port: 8082
